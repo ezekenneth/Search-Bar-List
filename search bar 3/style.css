@@ -1,0 +1,44 @@
+body{
+    background: #f2f2f2;
+  }
+  
+  .search {
+    position: relative;
+    width: 100%;
+    display: flex;
+  }
+  
+  .searchTerm {
+    width: 100%;
+    border: 3px solid tomato;
+    border-right: none;
+    padding: 5px;
+    height: 20px;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+    color: #9DBFAF;
+  }
+  
+  .searchTerm:focus{
+    color: tomato;
+  }
+  
+  .searchButton {
+    height: 36px;
+    border: 1px solid tomato;
+    width: 40px;
+    background: tomato;
+    color: #fff;
+    text-align: center;
+    border-radius: 0 5px 5px 0;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .wrap{
+    position: absolute;
+    width: 30%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
