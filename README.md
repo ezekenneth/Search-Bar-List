@@ -1,16 +1,10 @@
 # Search-Bar-List
 
-This Repository Contain list of classic search bars which is applicable to your project
+This repository contains a list of classic search bars that are applicable to your project
 
-## Table of Contents
-- [Basic Search Bars](#basic-search-bars)
-- [Animated Search Bars](#animated-search-bars)
-- [React Search Bars](#react-search-bars)
-- [Search Bars with Auto-suggestions](#search-bars-with-auto-suggestions)
-- [Search Bars with Filters](#search-bars-with-filters)
 
-## Basic Search Bars
-These repositories feature simple search bars built with basic HTML, CSS, and JavaScript.
+## Search Bar 1
+This Directory feature simple search bars built with basic HTML, CSS, and JavaScript.
 
 - **Simple Search Bar**  
   [Repository Link](https://github.com/username/simple-search-bar)  
