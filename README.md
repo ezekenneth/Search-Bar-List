@@ -1,8 +1,6 @@
 # Search-Bar-List
 
-# Awesome Search Bar Repositories
-
-A curated list of GitHub repositories related to implementing various types of search bars using HTML, CSS, JavaScript, React, and more.
+This Repository Contain list of classic search bars which is applicable to your project
 
 ## Table of Contents
 - [Basic Search Bars](#basic-search-bars)
